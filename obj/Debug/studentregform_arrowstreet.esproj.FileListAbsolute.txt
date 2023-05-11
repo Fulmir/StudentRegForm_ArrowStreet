@@ -1,0 +1,2 @@
+C:\Users\theEp\source\repos\StudentRegForm_ArrowStreet\StudentRegForm_ArrowStreet\obj\Debug\studentregform_arrowstreet.esproj.SuggestedBindingRedirects.cache
+C:\Users\theEp\source\repos\StudentRegForm_ArrowStreet\StudentRegForm_ArrowStreet\obj\Debug\studentregform_arrowstreet.esproj.CoreCompileInputs.cache
